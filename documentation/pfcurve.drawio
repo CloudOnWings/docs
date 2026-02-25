@@ -195,7 +195,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="nW6q3ubxR9hoSuHxdaeX-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#D4E1F5;" value="" vertex="1">
-          <mxGeometry height="720" width="730" x="60" y="220" as="geometry" />
+          <mxGeometry height="730" width="730" x="60" y="220" as="geometry" />
         </mxCell>
         <mxCell id="lugJlwHX-jhuIXbkQGfq-1" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=16;fontStyle=1;" value="设备层：数据采集与设备级评估诊断" vertex="1">
           <mxGeometry height="30" width="260" x="80" y="745" as="geometry" />
