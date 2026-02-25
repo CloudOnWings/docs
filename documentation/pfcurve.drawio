@@ -200,7 +200,7 @@
         <mxCell id="lugJlwHX-jhuIXbkQGfq-1" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=16;fontStyle=1;" value="设备层：数据采集与设备级评估诊断" vertex="1">
           <mxGeometry height="30" width="260" x="80" y="745" as="geometry" />
         </mxCell>
-        <mxCell id="lugJlwHX-jhuIXbkQGfq-2" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=16;fontStyle=1;" value="变电站层：边缘评估诊断" vertex="1">
+        <mxCell id="lugJlwHX-jhuIXbkQGfq-2" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=16;fontStyle=1;" value="配电房层：边缘评估诊断" vertex="1">
           <mxGeometry height="30" width="220" x="80" y="465" as="geometry" />
         </mxCell>
         <mxCell id="lugJlwHX-jhuIXbkQGfq-3" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=16;fontStyle=1;" value="集控层：厂区/企业级智能配电平台" vertex="1">
