@@ -210,22 +210,22 @@
           <mxGeometry height="155" width="480" x="80" y="775" as="geometry" />
         </mxCell>
         <mxCell id="lugJlwHX-jhuIXbkQGfq-5" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=bottom;fontSize=13;" value="实时运行数据与台账数据采集" vertex="1">
-          <mxGeometry height="30" width="480" x="80" y="898" as="geometry" />
+          <mxGeometry height="30" width="480" x="80" y="775" as="geometry" />
         </mxCell>
         <mxCell id="lugJlwHX-jhuIXbkQGfq-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="变压器" vertex="1">
-          <mxGeometry height="104" width="80" x="98" y="790" as="geometry" />
+          <mxGeometry height="104" width="80" x="98" y="809" as="geometry" />
         </mxCell>
         <mxCell id="lugJlwHX-jhuIXbkQGfq-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="断路器" vertex="1">
-          <mxGeometry height="104" width="80" x="188" y="790" as="geometry" />
+          <mxGeometry height="104" width="80" x="188" y="809" as="geometry" />
         </mxCell>
         <mxCell id="lugJlwHX-jhuIXbkQGfq-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="中压开关柜" vertex="1">
-          <mxGeometry height="104" width="80" x="278" y="790" as="geometry" />
+          <mxGeometry height="104" width="80" x="278" y="809" as="geometry" />
         </mxCell>
         <mxCell id="lugJlwHX-jhuIXbkQGfq-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="继电保护" vertex="1">
-          <mxGeometry height="104" width="80" x="368" y="790" as="geometry" />
+          <mxGeometry height="104" width="80" x="368" y="809" as="geometry" />
         </mxCell>
         <mxCell id="lugJlwHX-jhuIXbkQGfq-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="低压柜" vertex="1">
-          <mxGeometry height="104" width="80" x="458" y="790" as="geometry" />
+          <mxGeometry height="104" width="80" x="458" y="809" as="geometry" />
         </mxCell>
         <mxCell id="lugJlwHX-jhuIXbkQGfq-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="NXpower Edge&lt;div&gt;智能网关&lt;/div&gt;" vertex="1">
           <mxGeometry height="55" width="110" x="265" y="665" as="geometry" />
